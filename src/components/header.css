@@ -1,0 +1,18 @@
+.overlay{
+    display: none;
+}
+ul{
+    list-style-type:none;
+}
+
+.content {
+    color: #fff;
+    background: #e74c3c;
+    position: relative;
+    height: auto;
+    width: 600px;
+    border-radius: 3px;
+    top: 15%;
+    margin: auto auto;
+    border: 1px solid rgba(0,0,0,0.1);
+}
